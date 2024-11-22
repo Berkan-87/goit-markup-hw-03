@@ -164,10 +164,10 @@ body {
     padding-bottom: 24px;
 }
 
-.navigation__link:hover,
-.navigation__link:focus,
-.contact-list__link:hover,
-.contact-list__link:focus {
+.nav-link:hover,
+.nav-link:focus,
+.contact-tab-link:hover,
+.contact-tab-link:focus {
     color: var(--ocean);
 }
 
